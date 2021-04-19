@@ -1,6 +1,6 @@
 # IDAO 2021 Finals - Final submission
 
-This is the final submission that gave us the highest score in public LB. Our final score in public LB is 3436.63 and we are 26th among the 30 participant teams.
+This is the final submission that gave us our highest score in public LB. Our final score in public LB is 3436.63 and we are 26th among the 30 participant teams.
 
 ## Files to add:
 We have used the original trxn.csv, aum.csv, client.csv and funnel.csv, you have to copy the original data csv files (trxn.csv, aum.csv, client.csv and funnel.csv) to the "tests/train_data_sample" folder.
